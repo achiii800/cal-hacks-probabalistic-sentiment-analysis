@@ -1,4 +1,4 @@
-# cal-hacks-probabalistic-sentiment-analysis
+# cal-hacks-probabilistic-sentiment-analysis
 
 
 - NLP and Web API's to determine social sentiment on a certain stock , creating an indicator that oscillates [0, 1] 
