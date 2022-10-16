@@ -10,4 +10,4 @@
 - hugging face model: https://huggingface.co/blog/sentiment-analysis-python 
 - financial tweets data set: https://www.kaggle.com/datasets/davidwallach/financial-tweets
 - reddit wall street bets data sets: https://www.kaggle.com/code/thomaskonstantin/reddit-wallstreetbets-posts-sentiment-analysis/data
-- 
+- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDAkjYt266A6uxpWJMo4FOb%2Fcalhacks-(Copy)%3Fnode-id%3D3708%253A27984" allowfullscreen></iframe>
